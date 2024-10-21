@@ -25,6 +25,7 @@ public class Login extends JFrame {
 	private JPanel contentPane;
 	private JTextField username;
 	private JPasswordField password;
+	Integer a=ab;
 
 
 	public static void main(String[] args) {
